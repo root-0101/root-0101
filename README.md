@@ -16,13 +16,13 @@
 - I do CTF 🚩 and also document my Learnings on Medium
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rajveer-146b92262/">
+  <a href="https://www.linkedin.com/in/rajveer-146b92262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@rajveer_0101">
+  <a href="https://medium.com/@rajveer_0101" target="_blank">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
-  <a href="https://twitter.com/rajveer_0101">
+  <a href="https://twitter.com/rajveer_0101" target="_blank">
     <img src="https://img.shields.io/twitter/follow/rajveer_0101?logo=twitter&style=for-the-badge" alt="rajveer_0101"/>
   </a>
 </div>
@@ -40,7 +40,7 @@
 
 <span align="left">
 <!---<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> --->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" target="_blank"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <!---<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>--->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
@@ -58,5 +58,5 @@
 
 ## Contact Me : 
 
-- You can DM me on [Twitter](https://twitter.com/rajveer_0101)
+- You can DM me on <a href="https://twitter.com/rajveer_0101" target="_blank">Twitter</a>
 - Send an Message through [Email 📧](mailto:unofficially111@gmail.com)
