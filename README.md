@@ -18,7 +18,8 @@
 - I do CTF 🚩 and also document my Learnings on Medium
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&abbreviated=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=root-0101&label=Profile%20views&color=0e75b6&style=flat" alt="root-0101" /> </p>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/rajveer-146b92262/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
