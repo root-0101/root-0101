@@ -17,6 +17,8 @@
 - Currently I am Learning about Tools 🔨 and Vulnerability                             
 - I do CTF 🚩 and also document my Learnings on Medium
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&abbreviated=true)
 <div align="left">
   <a href="https://www.linkedin.com/in/rajveer-146b92262/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
