@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/rajveer-146b92262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@rajveer_0101" target="_blank">
+  <a href="https://medium.com/@rajveer_0101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
   <a href="https://twitter.com/rajveer_0101" target="_blank">
