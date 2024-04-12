@@ -17,16 +17,16 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rajveer-146b92262/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
   <a href="https://medium.com/@rajveer_0101">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge" target="_blank"/>
   </a>
   <a href="https://twitter.com/rajveer_0101">
-    <img src="https://img.shields.io/twitter/follow/rajveer_0101?logo=twitter&style=for-the-badge" alt="rajveer_0101"/>
+    <img src="https://img.shields.io/twitter/follow/rajveer_0101?logo=twitter&style=for-the-badge" alt="rajveer_0101" target="_blank"/>
   </a>
   <div><a href="https://www.buymeacoffee.com/rajveer_01">
-    <img height ="35px" width="200px" src="https://biocyclopedia.com/images/buy-us-a-coffee.png" />
+    <img height ="35px" width="200px" src="https://biocyclopedia.com/images/buy-us-a-coffee.png" target="_blank" />
   </a></div>
 </div>
 
