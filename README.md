@@ -55,7 +55,7 @@
 
 ## Contact Me : 
 
-- You can DM me on twitter <a href="https://twitter.com/rajveer_0101" target="_blank"> @rajveer_0101</a>
+- You can DM me on twitter [@rajveer_0101](https://twitter.com/rajveer_0101 "Open in new tab")
 - Send an Message through <a href="mailto:unofficially111@gmail.com">Email 📧</a>
 
 
