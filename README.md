@@ -16,13 +16,13 @@
 - I do CTF 🚩 and also document my Learnings on Medium
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rajveer-146b92262/" target="_blank">
+  <a href="https://www.linkedin.com/in/rajveer-146b92262/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@rajveer_0101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
-  <a href="https://twitter.com/rajveer_0101" target="_blank">
+  <a href="https://twitter.com/rajveer_0101">
     <img src="https://img.shields.io/twitter/follow/rajveer_0101?logo=twitter&style=for-the-badge" alt="rajveer_0101"/>
   </a>
 </div>
@@ -58,7 +58,6 @@
 
 ## Contact Me : 
 
-- You can DM me on <a href="https://twitter.com/rajveer_0101" target="_blank">Twitter</a>
+- You can DM me on <a href="https://twitter.com/rajveer_0101">Twitter</a>
 - Send an Message through [Email 📧](mailto:unofficially111@gmail.com)
-- [![Banner](https://example.com/banner.jpg)](https://example.com/destination.html)
 
