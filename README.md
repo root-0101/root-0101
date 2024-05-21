@@ -44,6 +44,7 @@
 - Javascript
 - Bash
 - Linux
+- SQL
 - Nmap
   
   
