@@ -40,6 +40,7 @@
 
 ## Languages and Tools :
 
+- Tailwind
 - Python                                               
 - Javascript
 - Bash
