@@ -38,15 +38,16 @@
   </a>
 </div>
 
-## Languages and Tools :
+## Skills :
 
-- Tailwind
-- Python                                               
-- Javascript
-- Bash
-- Linux
-- SQL
-- Nmap
+| WEB-DEV       |   LANGUAGE    |  TOOLS     | OTHERS |
+| ------------- |:-------------:| :---------:| :-----:|
+| `HTML`        | `PYTHON`      | `LINUX`    |   `CTF` | 
+| `CSS`         | `BASH`        |   |                |
+| `TAILWIND`    | `SQL`         |     |                |
+| `JAVASCRIPT`  |               |     |                |
+| `GIT`         |               |     |                |
+| `TAILWIND`    |               |     |                |
   
   
 
@@ -71,6 +72,7 @@
 
 ## Contact Me : 
 
-- You can DM me on <a href="https://twitter.com/rajveer_0101">Twitter</a>
+- You can DM me on <a href="https://twitter.com/rajveer_0101">Twitter </a>
 - Send an Message through [Email 📧](mailto:unofficially111@gmail.com)
+- Send me <a href="https://ngl.link/rajveer_0101">Anonymous Message👻</a>
 
