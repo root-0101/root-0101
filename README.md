@@ -42,12 +42,12 @@
 
 | WEB-DEV       |   LANGUAGE    |  TOOLS     | OTHERS |
 | ------------- |:-------------:| :---------:| :-----:|
-| `HTML`        | `PYTHON`      | `LINUX`    |   `CTF` | 
+| `HTML`        | `PYTHON`      | `NMAP`     | `LINUX` | 
 | `CSS`         | `BASH`        |   |                |
 | `TAILWIND`    | `SQL`         |     |                |
 | `JAVASCRIPT`  |               |     |                |
 | `GIT`         |               |     |                |
-| `TAILWIND`    |               |     |                |
+|    |          |     |               |
   
   
 
