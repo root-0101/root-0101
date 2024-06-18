@@ -47,7 +47,6 @@
 | `TAILWIND`    | `SQL`         |     |                |
 | `JAVASCRIPT`  |               |     |                |
 | `GIT`         |               |     |                |
-|    |          |     |               |
   
   
 
