@@ -1,6 +1,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+Rajveer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/adc2e526-f610-4ea3-9c2b-b8e8a8dbf1fd/dfwx5yr-007c6ff5-6199-4fc4-b878-2f2779a139e0.png/v1/fill/w_1190,h_671/commission_pixel_desk___fiverr_danirendiles_by_nanibananyy_dfwx5yr-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIyIiwicGF0aCI6IlwvZlwvYWRjMmU1MjYtZjYxMC00ZWEzLTljMmItYjhlOGE4ZGJmMWZkXC9kZnd4NXlyLTAwN2M2ZmY1LTYxOTktNGZjNC1iODc4LTJmMjc3OWExMzllMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NIhkBK32ACJRMgwqJJGEBpcomvaZQsgg0SJkHV50y4g"/>
+<div align="center"> 
+  <pre>
+>>===================================================<<
+||                                                   ||
+||   ____      _       ___     _______ _____ ____    ||
+||  |  _ \    / \     | \ \   / / ____| ____|  _ \   ||
+||  | |_) |  / _ \ _  | |\ \ / /|  _| |  _| | |_) |  ||
+||  |  _ <  / ___ \ |_| | \ V / | |___| |___|  _ <   ||
+||  |_| \_\/_/   \_\___/   \_/  |_____|_____|_| \_\  ||
+||                                                   ||
+>>===================================================<<
+  </pre>
+</div>
 
 <h3 align="center"> "Learning Web Security | Bug Bounty"</h3>
 
