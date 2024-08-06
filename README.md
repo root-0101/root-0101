@@ -1,18 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+Rajveer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<div align="center"> 
-  <pre>
->>===================================================<<
-||                                                   ||
-||   ____      _       ___     _______ _____ ____    ||
-||  |  _ \    / \     | \ \   / / ____| ____|  _ \   ||
-||  | |_) |  / _ \ _  | |\ \ / /|  _| |  _| | |_) |  ||
-||  |  _ <  / ___ \ |_| | \ V / | |___| |___|  _ <   ||
-||  |_| \_\/_/   \_\___/   \_/  |_____|_____|_| \_\  ||
-||                                                   ||
->>===================================================<<
-  </pre>
-</div>
+![Banner](https://github.com/user-attachments/assets/a24247ea-1353-4298-a4a4-a60803e365a6)
+
 
 <h3 align="center"> "Learning Web Security | Bug Bounty"</h3>
 
