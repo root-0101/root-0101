@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+Rajveer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-![Banner](https://github.com/user-attachments/assets/a24247ea-1353-4298-a4a4-a60803e365a6)
+![Banner (3)](https://github.com/user-attachments/assets/1e36178a-c490-4f9a-9e9f-625228737696)
 
 
 <h3 align="center"> "Learning Web Security | Bug Bounty"</h3>
