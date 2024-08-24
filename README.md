@@ -57,7 +57,7 @@
   | `GIT`         |               |     |                |
 
 
-<span align="right"><img height="155rem" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=root-0101&theme=github_dark"></img></span>
+<img height="180rem" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=root-0101&theme=github_dark"></img>
 
 <!-- <span align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> 
