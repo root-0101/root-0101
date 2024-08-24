@@ -1,12 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+Rajveer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-![Banner (2)](https://github.com/user-attachments/assets/a7a45c3e-be7e-4497-a78e-9635066bce3e)
+
 
 
 <h3 align="center"> "Learning Web Security | Bug Bounty"</h3>
 
 ## About Me :
-
 
 
 <p align="center">
@@ -22,7 +21,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-0101&label=Profile%20views&color=0e75b6&style=flat" alt="root-0101" /> </p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rajveer-146b92262/" >
+  <a href="https://linktr.ee/rajveer_01">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+<!--   <a href="https://www.linkedin.com/in/rajveer-146b92262/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@rajveer_0101" target="_blank" rel="noopener noreferrer">
@@ -30,21 +32,22 @@
   </a>
   <a href="https://twitter.com/rajveer_0101">
     <img src="https://img.shields.io/twitter/follow/rajveer_0101?logo=twitter&style=for-the-badge" alt="rajveer_0101"/>
-  </a>
+  </a> -->
 </div>
 
-<div align="left">
+ 
+ <!-- <div align="left">
   <a href="https://www.buymeacoffee.com/rajveer_01">
     <img height="35px" width="200px" src="https://biocyclopedia.com/images/buy-us-a-coffee.png"/>
   </a>
-</div>
+</div> -->
 
 ## Skills :
 
 | WEB-DEV       |   LANGUAGE    |  TOOLS     | OTHERS |
 | ------------- |:-------------:| :---------:| :-----:|
-| `HTML`        | `PYTHON`      | `NMAP`     | `LINUX` | 
-| `CSS`         | `BASH`        |   |                |
+| `HTML`        | `PYTHON`      | `Burp`     | `LINUX` | 
+| `CSS`         | `BASH`        |     |                |
 | `TAILWIND`    | `SQL`         |     |                |
 | `JAVASCRIPT`  |               |     |                |
 | `GIT`         |               |     |                |
