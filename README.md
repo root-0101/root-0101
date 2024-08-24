@@ -43,21 +43,23 @@
   </a>
 </div> -->
 
-## Skills :
 
-| WEB-DEV       |   LANGUAGE    |  TOOLS     | OTHERS |
-| ------------- |:-------------:| :---------:| :-----:|
-| `HTML`        | `PYTHON`      | `Burp`     | `LINUX` | 
-| `CSS`         | `BASH`        |     |                |
-| `TAILWIND`    | `SQL`         |     |                |
-| `JAVASCRIPT`  |               |     |                |
-| `GIT`         |               |     |                |
+
   
+  <h2>Skills :</h2>
   
+  | WEB-DEV       |   LANGUAGE    |  TOOLS     | OTHERS |
+  | ------------- |:-------------:| :---------:| :-----:|
+  | `HTML`        | `PYTHON`      | `Burp`     | `LINUX` | 
+  | `CSS`         | `BASH`        |     |                |
+  | `TAILWIND`    | `SQL`         |     |                |
+  | `JAVASCRIPT`  |               |     |                |
+  | `GIT`         |               |     |                |
 
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-0101&show_icons=true&locale=en&layout=compact" alt="root-0101" />
 
-<span align="left">
+<span align="right"><img height="155rem" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=root-0101&theme=github_dark"></img></span>
+
+<!-- <span align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
