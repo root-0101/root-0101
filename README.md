@@ -51,7 +51,7 @@
   | WEB-DEV       |   LANGUAGE    |  TOOLS     | OTHERS |
   | ------------- |:-------------:| :---------:| :-----:|
   | `HTML`        | `PYTHON`      | `Burp`     | `LINUX` | 
-  | `CSS`         | `BASH`        |     |                |
+  | `CSS`         | `BASH`        |  `Nmap`   |                |
   | `TAILWIND`    | `SQL`         |     |                |
   | `JAVASCRIPT`  |               |     |                |
   | `GIT`         |               |     |                |
