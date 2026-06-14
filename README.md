@@ -79,6 +79,6 @@
 ## Contact Me : 
 
 - You can DM me on <a href="https://twitter.com/rajveer_0101">Twitter </a>
-- Send an Message through [Email 📧](mailto:secsleuth@gmail.com)
+- Send an Message through [Email 📧](mailto:sl3uth@wearehackerone.com)
 - Send me <a href="https://ngl.link/rajveer_0101">Anonymous Message👻</a>
 
